@@ -1,6 +1,6 @@
 ! AdGuardHome 整合白名单(DNS精简版)
-! 生成时间: 2026-09-23 11:55:22 (UTC+8)
-! DNS精简版: 剔除DNS层不生效白名单规则 3136 条, 保留 5787 条
+! 生成时间: 2026-09-23 12:15:16 (UTC+8)
+! DNS精简版: 剔除DNS层不生效白名单规则 3136 条, 保留 5788 条
 !   剔除-带路径@@规则(浏览器URL规则): 763
 !   剔除-浏览器/修饰符: 1835
 !   剔除-URL/路径片段: 197
@@ -3738,6 +3738,7 @@
 @@||net-cloud.xhey.top^
 @@||netapm.music.163.com^
 @@||netease.com^
+@@||netflixgc.com^
 @@||nethnews.lk^
 @@||netspor10.club^
 @@||nettsoiders.ga^
