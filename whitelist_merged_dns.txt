@@ -1,6 +1,6 @@
 ! AdGuardHome 整合白名单(DNS精简版)
-! 生成时间: 2026-09-23 12:15:16 (UTC+8)
-! DNS精简版: 剔除DNS层不生效白名单规则 3136 条, 保留 5788 条
+! 生成时间: 2026-09-23 12:28:36 (UTC+8)
+! DNS精简版: 剔除DNS层不生效白名单规则 3136 条, 保留 5792 条
 !   剔除-带路径@@规则(浏览器URL规则): 763
 !   剔除-浏览器/修饰符: 1835
 !   剔除-URL/路径片段: 197
@@ -2517,6 +2517,7 @@
 @@||image.winudf.com^
 @@||image.wjx.com^
 @@||image.yingyonghui.com^
+@@||images-amazon.com^
 @@||images-eds-ssl.xboxlive.com^
 @@||images.uc.cn^
 @@||imajbet250.com^
@@ -3414,6 +3415,7 @@
 @@||mechaplamodel.blogspot.com^
 @@||meconstructionnews.com^
 @@||med-fe.cdn.bcebos.com^
+@@||media-amazon.com^
 @@||media-img.puui.qpic.cn^
 @@||media-kljuc.ba^
 @@||mediadata.api.weibo.com^
@@ -4382,6 +4384,7 @@
 @@||rbreezy.net^
 @@||rc10-fc07.oray.com^
 @@||rcadvisor.com^
+@@||rcm-images.amazon.com^
 @@||rcmko.org^
 @@||rcnmundo.com^
 @@||rdelivery.qq.com^
@@ -4812,6 +4815,7 @@
 @@||srv.greenguard.sec.miui.com^
 @@||srv.sec.miui.com^
 @@||ssl-cdn.static.browser.mi-img.com^
+@@||ssl-images-amazon.com^
 @@||ssl.dl.g15.letvlb.com^
 @@||ssl.p.jwpcdn.com^
 @@||ssl.ptlogin2.qq.com^
