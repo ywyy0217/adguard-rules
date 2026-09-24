@@ -1,6 +1,6 @@
 ! AdGuardHome 整合白名单(DNS精简版)
-! 生成时间: 2026-09-24 17:10:30 (UTC+8)
-! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5713 条
+! 生成时间: 2026-09-24 17:25:05 (UTC+8)
+! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5792 条
 !   剔除-带路径@@规则(浏览器URL规则): 765
 !   剔除-浏览器/修饰符: 1835
 !   剔除-URL/路径片段: 197
@@ -21,17 +21,21 @@
 @@||100bestsex.ru^
 @@||100premium.blogspot.com^
 @@||108homeidea.com^
+@@||12306.cn^
 @@||123mkv.boo^
 @@||123movies.design^
 @@||123pan.com^
 @@||125-45-237-175.d.cjjd09.com^
+@@||126.com^
 @@||126.net^
 @@||144chan.ovh^
 @@||14khorshid.ir^
 @@||163.com^
 @@||168168.vn^
+@@||1688.com^
 @@||1688porn.tv^
 @@||168porn2.com^
+@@||17173.com^
 @@||189979.com^
 @@||18iamhot.blogspot.com^
 @@||18pornpros.com^
@@ -77,6 +81,7 @@
 @@||2girls1cup.ws^
 @@||2resultatbac15algerie.blogspot.com^
 @@||360.cn^
+@@||360buyimg.com^
 @@||360safe.com^
 @@||39399.one^
 @@||3arabicsex.com^
@@ -202,6 +207,7 @@
 @@||account.xiaomi.com^
 @@||accounts.google.com^
 @@||aceph99.net^
+@@||acfun.cn^
 @@||acidimg.cc^
 @@||aconteceuemjaragua.com.br^
 @@||acs.m.taobao.com^
@@ -313,6 +319,8 @@
 @@||ajji7i0j.sslego.tcloudscdn.com^
 @@||akamai.net^
 @@||akamaiedge.net^
+@@||akamaihd.net^
+@@||akamaized.net^
 @@||akantetapi.my.id^
 @@||akhbarino.com^
 @@||akhirsaa.com^
@@ -397,6 +405,7 @@
 @@||amateurxxxhd.com^
 @@||amatuervid.com^
 @@||amazon.com^
+@@||amazonaws.com^
 @@||ambefashion.blogspot.com^
 @@||amdc.alipay.com^
 @@||amdc.m.taobao.com^
@@ -588,6 +597,7 @@
 @@||apple-relay.apple.com^
 @@||apple-relay.cloudflare.com^
 @@||apple-relay.fastly-edge.com^
+@@||apple.com^
 @@||appledownload.qtlcdn.com^
 @@||appleid.cdn-apple.com^
 @@||apps-marketplace.apple.com^
@@ -737,7 +747,10 @@
 @@||bahissitelerisikayetleri.com^
 @@||baianolandia.com.br^
 @@||baidu-ide.bj.bcebos.com^
+@@||baidu.cn^
 @@||baidu.com^
+@@||baidupcs.com^
+@@||baidustatic.com^
 @@||baijiahao.baidu.com^
 @@||baike.baidu.hk^
 @@||baike.so.com^
@@ -781,14 +794,17 @@
 @@||baston.info^
 @@||batarakala.co^
 @@||batoto.org^
+@@||bcebos.com^
 @@||bcy.net^
 @@||bd0.d.meituan.net^
 @@||bdhmxs.com^
+@@||bdimg.com^
 @@||bding.net^
 @@||bdmodel2017.blogspot.com^
 @@||bdmodel66.blogspot.com^
 @@||bdmusiccafe.com^
 @@||bdnow24.com^
+@@||bdstatic.com^
 @@||bdtryt.blogspot.com^
 @@||bdtyk.blogspot.com^
 @@||bdtykty.blogspot.com^
@@ -851,6 +867,9 @@
 @@||bigohot.xyz^
 @@||bigtits-girls.com^
 @@||bikini-video.com^
+@@||biliapi.net^
+@@||bilibili.com^
+@@||bilivideo.com^
 @@||billfristblows.blogspot.com^
 @@||bilutv.life^
 @@||bilutv.lol^
@@ -973,7 +992,9 @@
 @@||bvcdsg.blogspot.com^
 @@||bxcollective.com^
 @@||bysivatravel.blogspot.com^
+@@||bytecdn.cn^
 @@||bytedance.com^
+@@||byteimg.com^
 @@||bzazi.com^
 @@||c-0001.c-msedge.net^
 @@||c-vi.blogspot.com^
@@ -1072,6 +1093,7 @@
 @@||cc.map.qq.com^
 @@||ccine10.com.br^
 @@||ccpro.in^
+@@||cctv.com^
 @@||cdn-apple.com^
 @@||cdn-go.cn^
 @@||cdn.ark.qq.com^
@@ -1143,6 +1165,7 @@
 @@||chicchimovie.com^
 @@||chillphim.tv^
 @@||chilluj.com^
+@@||china.com.cn^
 @@||chinacdnweb.qiniu.com.w.kunlunno.com^
 @@||chinaporn.com.es^
 @@||chinapornx.com.es^
@@ -1209,6 +1232,9 @@
 @@||cloud.tgpa.qq.com^
 @@||cloudcache.tencent-cloud.cn^
 @@||cloudcache.tencentcs.com^
+@@||cloudflare.com^
+@@||cloudflare.net^
+@@||cloudfront.net^
 @@||cloudi.browser.heytapmobi.com^
 @@||cloudkit-api-cn.ocloud.heytapmobi.com^
 @@||cls-ingest.itunes.apple.com^
@@ -1293,6 +1319,7 @@
 @@||cs95619.adn.psicdn.net^
 @@||cs95619.wpc.psicdn.net^
 @@||csajoknak.com^
+@@||csdn.net^
 @@||cseupdate.360safe.com^
 @@||cssubmissions.apple.com^
 @@||cstaticdun.126.net^
@@ -1427,6 +1454,7 @@
 @@||dhunwap.in^
 @@||diagassets.apple.com^
 @@||diakron.it^
+@@||dianping.com^
 @@||diariocoimbra.pt^
 @@||diariodechiapas.com^
 @@||diariodeladespechada.blogspot.com^
@@ -1531,6 +1559,8 @@
 @@||doujindesu.lol^
 @@||doujindesu.rip^
 @@||doujindesu.win^
+@@||douyin.com^
+@@||douyinpic.com^
 @@||down.360safe.com^
 @@||download.developer.apple.com^
 @@||downloadedmodapk.blogspot.com^
@@ -1642,6 +1672,7 @@
 @@||elconcecuente.cl^
 @@||elder-scrolls-online.de^
 @@||eldora-kw.com^
+@@||ele.me^
 @@||eleml.com^
 @@||elfiz.com^
 @@||elfnd.com^
@@ -1789,6 +1820,7 @@
 @@||fashionandcomplements.com^
 @@||fastcdn.hoyoverse.com^
 @@||fastfuckgames.com^
+@@||fastly.net^
 @@||fastmobilporno.org^
 @@||faucetflix.xyz^
 @@||fba.apple.com^
@@ -2091,6 +2123,7 @@
 @@||gfycatporn.com^
 @@||gg.apple.com^
 @@||ggkdpsls.blogspot.com^
+@@||ggpht.com^
 @@||ggtcf.blogspot.com^
 @@||ggtykul.blogspot.com^
 @@||ggxvideos.com^
@@ -2104,6 +2137,7 @@
 @@||ghs.google.com^
 @@||gia.jd.com^
 @@||gias.jd.com^
+@@||gifshow.com^
 @@||giftpornvideos.com^
 @@||gigatuga.org^
 @@||giladrakor.club^
@@ -2118,6 +2152,7 @@
 @@||giscus.app^
 @@||gitcode.net^
 @@||github.com^
+@@||github.io^
 @@||givanoandkeri.blogspot.com^
 @@||givinglistsantabarbara.com^
 @@||gkeseva.blogspot.com^
@@ -2146,13 +2181,16 @@
 @@||goliedevushki.club^
 @@||goll.ge^
 @@||google-maps-claudiadtt.blogspot.com^
+@@||google.com^
 @@||googleapis.com^
+@@||googlevideo.com^
 @@||gopup.com^
 @@||gorgon.youdao.com^
 @@||gosexgames.com^
 @@||gotaporn.info^
 @@||gots6.blogspot.com^
 @@||gotspot.tistory.com^
+@@||gov.cn^
 @@||governmentlaptop.blogspot.com^
 @@||grandmaxxxhd.com^
 @@||grandnews.kr^
@@ -2182,6 +2220,7 @@
 @@||gstaticadssl.l.google.com^
 @@||gtdthb.blogspot.com^
 @@||gtimg.cn^
+@@||gtimg.com^
 @@||guangguang.cloudvideocdn.taobao.com^
 @@||guanjia.10010.com^
 @@||gubuksex.site^
@@ -2269,6 +2308,7 @@
 @@||hdporn4k.top^
 @@||hdrealitykings.us^
 @@||hdrupornotv.info^
+@@||hdslb.com^
 @@||hdstreamzz.net^
 @@||hdtennis.ru^
 @@||hdvideoss4u.blogspot.com^
@@ -2450,6 +2490,7 @@
 @@||idv.cdn-apple.com^
 @@||ieensdc.blogspot.com^
 @@||ienac.lv^
+@@||ifeng.com^
 @@||ifind.heytapmobi.com^
 @@||iflow-api.uc.cn^
 @@||ig.apple.com^
@@ -2476,6 +2517,7 @@
 @@||image.winudf.com^
 @@||image.wjx.com^
 @@||image.yingyonghui.com^
+@@||images-amazon.com^
 @@||images-eds-ssl.xboxlive.com^
 @@||images.uc.cn^
 @@||imajbet250.com^
@@ -2636,6 +2678,7 @@
 @@||ipv6.msftconnecttest.com^
 @@||ipv6.music.163.com^
 @@||ipv6test.photo.store.qq.com^
+@@||iqiyi.com^
 @@||iranamlaak.com^
 @@||iranfaraze.ir^
 @@||iraniax.ir^
@@ -2743,13 +2786,17 @@
 @@||jblpartners.fr^
 @@||jchann.net^
 @@||jcloud-cdn.com^
+@@||jcloudcdn.com^
 @@||jcocdess.ga^
+@@||jd.com^
 @@||jda.net.in^
+@@||jdcloud.com^
 @@||jdcollegekorthu.org.in^
 @@||jeanpharmacy.com^
 @@||jessicalagergren.se^
 @@||jetztsparen.eu^
 @@||jianpu.info^
+@@||jianshu.com^
 @@||jihulab.com^
 @@||jilhubzz.blogspot.com^
 @@||jili178.com^
@@ -2802,6 +2849,7 @@
 @@||jpxnx.info^
 @@||jpxnx.moe^
 @@||js-agent.newrelic.com^
+@@||jsdelivr.net^
 @@||jtvizle.com^
 @@||judicasino.net^
 @@||juegos-nds-3ds-y-mas.blogspot.com^
@@ -3059,6 +3107,7 @@
 @@||kstarsmedia.com^
 @@||kste.ksapisrv.com^
 @@||ku.dk^
+@@||kuaishou.com^
 @@||kuajingd.com^
 @@||kumpul.xyz^
 @@||kumpulancontoh.co.id^
@@ -3366,6 +3415,7 @@
 @@||mechaplamodel.blogspot.com^
 @@||meconstructionnews.com^
 @@||med-fe.cdn.bcebos.com^
+@@||media-amazon.com^
 @@||media-img.puui.qpic.cn^
 @@||media-kljuc.ba^
 @@||mediadata.api.weibo.com^
@@ -3378,6 +3428,7 @@
 @@||megahentaicomics.com^
 @@||megaporn.com.es^
 @@||meilleurcheval.blogspot.com^
+@@||meituan.com^
 @@||meituan.net^
 @@||meizu.coapi.moji.com^
 @@||melayubolehlucah.blogspot.com^
@@ -3415,6 +3466,7 @@
 @@||metrics.vrch.at^
 @@||mfn-sched.jcloud-cdn.com^
 @@||mgbsdk.matrix.netease.com^
+@@||mgtv.com^
 @@||mh00051.blogspot.com^
 @@||mh00052.blogspot.com^
 @@||mh00055.blogspot.com^
@@ -3602,6 +3654,7 @@
 @@||ms.bdstatic.com^
 @@||ms.vipstatic.com^
 @@||msec.opposhop.cn^
+@@||msn.com^
 @@||msugcmansa.co.in^
 @@||mt2.cn^
 @@||mt2swordsmax.com^
@@ -3687,6 +3740,7 @@
 @@||net-cloud.xhey.top^
 @@||netapm.music.163.com^
 @@||netease.com^
+@@||netflixgc.com^
 @@||nethnews.lk^
 @@||netspor10.club^
 @@||nettsoiders.ga^
@@ -3842,6 +3896,7 @@
 @@||odin.re.taobao.com.gds.alibabadns.com^
 @@||odir.us^
 @@||odoh.cloudflare-dns.com^
+@@||office.com^
 @@||officeclient.microsoft.com^
 @@||officehomeblobs.blob.core.windows.net^
 @@||officeindir.blogspot.com^
@@ -4026,6 +4081,7 @@
 @@||penal1x2.com^
 @@||pencarian-alamat.blogspot.com^
 @@||pencarisyair.com^
+@@||people.com.cn^
 @@||peperosaintavola.it^
 @@||peq2.com^
 @@||periodicontinyent.com^
@@ -4091,6 +4147,7 @@
 @@||pic5.40017.cn^
 @@||picfox.org^
 @@||pinaypak-sexstory.blogspot.com^
+@@||pinduoduo.com^
 @@||pinkhentai.co^
 @@||pinoymovieshub.ph^
 @@||pinoynetworktambayan.net^
@@ -4269,6 +4326,7 @@
 @@||q.qlogo.cn^
 @@||qappcenterv6.3g.qq.com^
 @@||qbwup.imtt.qq.com^
+@@||qcloud.com^
 @@||qd.aadcn.cn^
 @@||qing.wpsdns.com^
 @@||qm-ab.wtzw.com^
@@ -4276,8 +4334,10 @@
 @@||qn.yingyonghui.com^
 @@||qnmob3.doubanio.com^
 @@||qombiology.ir^
+@@||qpic.cn^
 @@||qq-web-legacy.cdn-go.cn^
 @@||qq.com^
+@@||qqmail.com^
 @@||qqpublic.qpic.cn^
 @@||qqpublic.tc.qq.com^
 @@||qqzb88.com^
@@ -4324,6 +4384,7 @@
 @@||rbreezy.net^
 @@||rc10-fc07.oray.com^
 @@||rcadvisor.com^
+@@||rcm-images.amazon.com^
 @@||rcmko.org^
 @@||rcnmundo.com^
 @@||rdelivery.qq.com^
@@ -4622,7 +4683,10 @@
 @@||simplymoviesfree.blogspot.com^
 @@||simplysinova.com^
 @@||sims-3.net^
+@@||sina.cn^
+@@||sina.com.cn^
 @@||sinaimg.cn^
+@@||sinaimg.com^
 @@||sineadmcdermott.com^
 @@||sinemaizlefullhd.com^
 @@||sinemaizlefullhd.net^
@@ -4694,6 +4758,7 @@
 @@||softwaremasalah.blogspot.com^
 @@||softwareyalgomas.blogspot.com^
 @@||sogou.com^
+@@||sohu.com^
 @@||soja.ir^
 @@||sokuja.biz^
 @@||solidance.com^
@@ -4750,6 +4815,7 @@
 @@||srv.greenguard.sec.miui.com^
 @@||srv.sec.miui.com^
 @@||ssl-cdn.static.browser.mi-img.com^
+@@||ssl-images-amazon.com^
 @@||ssl.dl.g15.letvlb.com^
 @@||ssl.p.jwpcdn.com^
 @@||ssl.ptlogin2.qq.com^
@@ -4917,6 +4983,7 @@
 @@||tanx.com^
 @@||tanyajawab.github.io^
 @@||taobao.com^
+@@||taobaocdn.com^
 @@||tapantaola.eu^
 @@||taraftarium.marketing^
 @@||taraftarium24.win^
@@ -4925,6 +4992,7 @@
 @@||tb.cn^
 @@||tb.himg.baidu.com^
 @@||tbbviagra.com^
+@@||tbcdn.cn^
 @@||tbliz.com^
 @@||tbsc.apple.com^
 @@||tchnical.blogspot.com^
@@ -4960,6 +5028,7 @@
 @@||tencent-cloud.com^
 @@||tencent-cloud.net^
 @@||tencent.com^
+@@||tencentmusic.com^
 @@||tengokudouga.com^
 @@||tenpay.com^
 @@||teq1.com^
@@ -5055,6 +5124,7 @@
 @@||tj.gov.cn^
 @@||tjyylli.blogspot.com^
 @@||tlcplantsinc.com^
+@@||tmall.com^
 @@||tmfmazuhttp-wangka.m.qq.com^
 @@||tnamcot.com^
 @@||tnmusic.in^
@@ -5091,6 +5161,7 @@
 @@||tottenhambrasil.com.br^
 @@||toukoucity.to^
 @@||tousatu-news.com^
+@@||toutiao.com^
 @@||toutporno.net^
 @@||towerfantasy.ru^
 @@||tp-pay.snssdk.com^
@@ -5204,6 +5275,7 @@
 @@||ungkapankuu.blogspot.com^
 @@||unicialis.com^
 @@||unikalnisnimki.com^
+@@||unpkg.com^
 @@||uop.quark.cn^
 @@||up.cm.ksmobile.com^
 @@||up.woozooo.com^
@@ -5461,6 +5533,7 @@
 @@||weiboimg.gslb.sinaedge.com^
 @@||weiboimgwx.gslb.sinaedge.com^
 @@||weiming.info^
+@@||weixin.qq.com^
 @@||wejapango.com^
 @@||welikedoraemon.blogspot.com^
 @@||weread.qq.com^
@@ -5588,9 +5661,12 @@
 @@||xerovideos.com^
 @@||xeserve.com^
 @@||xfukyl.blogspot.com^
+@@||xhscdn.com^
 @@||xhslink.com^
+@@||xiaohongshu.com^
 @@||xiaoshuo.wtzw.com^
 @@||xingzuovip.com^
+@@||xinhuanet.com^
 @@||xinzhi.wenda.so.com^
 @@||xn--12cl2bca0a9jsa8a7e1dc3gd.tv^
 @@||xn--12cl2bu3go0a5d9cud.tv^
@@ -5684,6 +5760,7 @@
 @@||yomovies.tel^
 @@||yomovies.vin^
 @@||yoogi.ir^
+@@||youku.com^
 @@||youpornbook.com^
 @@||yourbrexit.co.uk^
 @@||yourtube.xxx^
@@ -5713,6 +5790,8 @@
 @@||zggangguan.cn^
 @@||zhaibus.com^
 @@||zhidao.baidu.com^
+@@||zhihu.com^
+@@||zhimg.com^
 @@||zhuti.xiaomi.com^
 @@||zinmanga.fit^
 @@||zj1cfweh.cloud.tds1.tapapis.cn^
