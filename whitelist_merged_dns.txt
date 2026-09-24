@@ -1,6 +1,6 @@
 ! AdGuardHome 整合白名单(DNS精简版)
-! 生成时间: 2026-09-24 17:25:05 (UTC+8)
-! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5792 条
+! 生成时间: 2026-09-24 17:37:10 (UTC+8)
+! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5791 条
 !   剔除-带路径@@规则(浏览器URL规则): 765
 !   剔除-浏览器/修饰符: 1835
 !   剔除-URL/路径片段: 197
@@ -240,7 +240,6 @@
 @@||ad.nl^
 @@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
-@@||ad.vivo.com.cn^
 @@||adabocoransoal.blogspot.com^
 @@||adashx.ut.dingtalk.com^
 @@||adcdn.pingan.com^
