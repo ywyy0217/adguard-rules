@@ -1,6 +1,6 @@
 ! AdGuardHome 整合白名单(DNS精简版)
-! 生成时间: 2026-09-24 17:37:10 (UTC+8)
-! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5791 条
+! 生成时间: 2026-09-25 18:25:38 (UTC+8)
+! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5799 条
 !   剔除-带路径@@规则(浏览器URL规则): 765
 !   剔除-浏览器/修饰符: 1835
 !   剔除-URL/路径片段: 197
@@ -474,6 +474,7 @@
 @@||any.cdn-go.cn.sched.legopic1-dk.tdnsv6.com.tpic.cdn.chinaidcnet.com^
 @@||anyav.me^
 @@||anycracksoft.blogspot.com^
+@@||anyelianqu.de5.net^
 @@||anysex.top^
 @@||anythingdload.blogspot.com^
 @@||ap6.ssl.msdk.qq.com^
@@ -664,6 +665,7 @@
 @@||assur-cyber.fr^
 @@||astrologer.gr^
 @@||asurascans.cloud^
+@@||at.youku.com^
 @@||atascadocherba.com^
 @@||atdhe.ru^
 @@||athallwelakatha.blogspot.com^
@@ -1047,6 +1049,7 @@
 @@||camsrated.com^
 @@||camvat.tv^
 @@||canal13.cl^
+@@||canary.atm.youku.com^
 @@||cangcaya.top^
 @@||canlicasinobahis.info^
 @@||canlimac10.com^
@@ -1382,6 +1385,7 @@
 @@||danskcvr.dk^
 @@||darknaija.com^
 @@||darkoficialeducacionbi.blogspot.com^
+@@||dash.cloudflare.com^
 @@||dashen91.xyz^
 @@||dashi.163.com^
 @@||data-sdk-uuid-report.dreport.meituan.net^
@@ -2428,6 +2432,7 @@
 @@||htrace.wetvinfo.com^
 @@||https-www-xozilla.com^
 @@||htube.space^
+@@||huawei.com^
 @@||huddingehockey.com^
 @@||hudong.alicdn.com^
 @@||hugetits.com.es^
@@ -2969,6 +2974,7 @@
 @@||komputery.malopolska.pl^
 @@||konkurha.ir^
 @@||konuluporn.xyz^
+@@||kookapp.cn^
 @@||kopeda0b.xyz^
 @@||kopeda0c.xyz^
 @@||kopeda0z.xyz^
@@ -3957,6 +3963,7 @@
 @@||opciontv.com^
 @@||open-music.ir^
 @@||open.e.189.cn^
+@@||open.uc.cn^
 @@||openapi-slp.heytapmobi.com^
 @@||openapi.baidu.com^
 @@||opencdn.jomodns.com^
@@ -5482,6 +5489,7 @@
 @@||w1-pro.kskwai.com^
 @@||waimai-guide.ele.me^
 @@||wakibmovies.blogspot.com^
+@@||wal.youku.com^
 @@||walkathaas.blogspot.com^
 @@||wankgod.com^
 @@||wapdale.com^
