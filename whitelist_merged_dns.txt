@@ -1,6 +1,6 @@
 ! AdGuardHome 整合白名单(DNS精简版)
-! 生成时间: 2026-09-25 18:42:36 (UTC+8)
-! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5799 条
+! 生成时间: 2026-09-25 18:47:55 (UTC+8)
+! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5797 条
 !   剔除-带路径@@规则(浏览器URL规则): 765
 !   剔除-浏览器/修饰符: 1835
 !   剔除-URL/路径片段: 197
@@ -2184,7 +2184,6 @@
 @@||goliedevushki.club^
 @@||goll.ge^
 @@||google-maps-claudiadtt.blogspot.com^
-@@||google.com^
 @@||googleapis.com^
 @@||googlevideo.com^
 @@||gopup.com^
@@ -3486,7 +3485,6 @@
 @@||mhc-xpana-eu-s2.myhomescreen.tv^
 @@||mhc-xpana-eu.myhomescreen.tv^
 @@||mi-side.nl^
-@@||mi.com^
 @@||micromerchant.xyz^
 @@||microsoft.com^
 @@||microsoftapp.net^
