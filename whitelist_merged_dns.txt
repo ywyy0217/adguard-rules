@@ -1,6 +1,6 @@
 ! AdGuardHome 整合白名单(DNS精简版)
-! 生成时间: 2026-09-25 19:48:20 (UTC+8)
-! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5902 条
+! 生成时间: 2026-09-25 20:02:16 (UTC+8)
+! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5892 条
 !   剔除-带路径@@规则(浏览器URL规则): 765
 !   剔除-浏览器/修饰符: 1835
 !   剔除-URL/路径片段: 197
@@ -504,7 +504,6 @@
 @@||api.browser.miui.com^
 @@||api.cloud.huawei.com^
 @@||api.comm.miui.com^
-@@||api.cupid.dns.iqiyi.com^
 @@||api.data.meitu.com^
 @@||api.developer.xiaomi.com^
 @@||api.device.xiaomi.net^
@@ -903,7 +902,6 @@
 @@||bitchyourfamous.com^
 @@||bitchyx.it^
 @@||bitigee.com^
-@@||bj.vip.waf.dns.iqiyi.com^
 @@||bjm7-incu.gifshow.com^
 @@||bkh017.com^
 @@||bkimg.cdn.bcebos.com.a.bdydns.com^
@@ -1419,7 +1417,6 @@
 @@||data.game.xiaomi.com^
 @@||data.jsdelivr.com^
 @@||data.sec.miui.com^
-@@||data.video.dns.iqiyi.com^
 @@||data.video.iqiyi.com^
 @@||data.video.qiyi.com^
 @@||data.xiaoheihe.cn^
@@ -1547,7 +1544,6 @@
 @@||dns.digitale-gesellschaft.ch^
 @@||dns.google^
 @@||dns.google.com^
-@@||dns.iqiyi.com^
 @@||dns.nextdns.io^
 @@||dns.pub^
 @@||dns.rubyfish.cn^
@@ -1564,7 +1560,6 @@
 @@||doh.cleanbrowsing.org^
 @@||doh.dns.apple.com^
 @@||doh.dns.sb^
-@@||doh.iqiyi.com^
 @@||doh.opendns.com^
 @@||doh.pub^
 @@||dokumenty.tv^
@@ -2537,10 +2532,7 @@
 @@||ieensdc.blogspot.com^
 @@||ienac.lv^
 @@||iface.iqiyi.com^
-@@||iface2.dns.iqiyi.com^
 @@||iface2.iqiyi.com^
-@@||ifacelog.dns.iqiyi.com^
-@@||ifacelog.iqiyi.com^
 @@||ifeng.com^
 @@||ifind.heytapmobi.com^
 @@||iflow-api.uc.cn^
@@ -4934,7 +4926,6 @@
 @@||static-tapad.tapdb.net^
 @@||static.122.gov.cn^
 @@||static.360buyimg.com^
-@@||static.dns.qiyipic.iqiyi.com^
 @@||static.g.iqiyi.com^
 @@||static.gamecenter.qq.com^
 @@||static.geetest.com^
@@ -5492,7 +5483,6 @@
 @@||v3-ot01.kwaicdn.com^
 @@||v5-skvod.kwaicdn.com^
 @@||v5.douyinvod.com.zjgslb.com^
-@@||v6-data.video.dns.iqiyi.com^
 @@||v6-gdvod.kwaicdn.com^
 @@||v6.kwaicdn.com^
 @@||v6ncsi.msedge.net^
