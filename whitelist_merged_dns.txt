@@ -1,6 +1,6 @@
 ! AdGuardHome 整合白名单(DNS精简版)
-! 生成时间: 2026-09-25 20:02:16 (UTC+8)
-! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5892 条
+! 生成时间: 2026-09-25 20:16:21 (UTC+8)
+! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5894 条
 !   剔除-带路径@@规则(浏览器URL规则): 765
 !   剔除-浏览器/修饰符: 1835
 !   剔除-URL/路径片段: 197
@@ -2718,6 +2718,7 @@
 @@||ipv4.music.163.com^
 @@||ipv4.taptapdada.com^
 @@||ipv4.taptapdata.com^
+@@||ipv6-static.dns.iqiyi.com^
 @@||ipv6.l.google.com^
 @@||ipv6.msftconnecttest.com^
 @@||ipv6.music.163.com^
@@ -4926,6 +4927,7 @@
 @@||static-tapad.tapdb.net^
 @@||static.122.gov.cn^
 @@||static.360buyimg.com^
+@@||static.cdn.iqiyi.com^
 @@||static.g.iqiyi.com^
 @@||static.gamecenter.qq.com^
 @@||static.geetest.com^
