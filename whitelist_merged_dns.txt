@@ -1,6 +1,6 @@
 ! AdGuardHome 整合白名单(DNS精简版)
-! 生成时间: 2026-09-25 21:04:53 (UTC+8)
-! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5897 条
+! 生成时间: 2026-09-25 21:46:45 (UTC+8)
+! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5925 条
 !   剔除-带路径@@规则(浏览器URL规则): 765
 !   剔除-浏览器/修饰符: 1835
 !   剔除-URL/路径片段: 197
@@ -285,6 +285,7 @@
 @@||adverts.1foo.com^
 @@||ae.bdstatic.com^
 @@||ae01.alicdn.com^
+@@||aedns.weixin.qq.com^
 @@||aegis.qq.com^
 @@||aek-live.gr^
 @@||ael24.net^
@@ -503,6 +504,7 @@
 @@||api.browser.miui.com^
 @@||api.cloud.huawei.com^
 @@||api.comm.miui.com^
+@@||api.danmu.tv.sohu.com^
 @@||api.data.meitu.com^
 @@||api.developer.xiaomi.com^
 @@||api.device.xiaomi.net^
@@ -515,6 +517,7 @@
 @@||api.geetest.com^
 @@||api.github.com^
 @@||api.huangye.miui.com^
+@@||api.iapps.ifeng.com^
 @@||api.im.weibo.cn^
 @@||api.io.mi.com^
 @@||api.ip.sb^
@@ -543,6 +546,7 @@
 @@||api.slightcommunicativeinterconnectedness.xyz^
 @@||api.smoot.apple.com^
 @@||api.taptapdada.com^
+@@||api.tv.sohu.com^
 @@||api.tw06.xlmc.sec.miui.com^
 @@||api.union.vip.com^
 @@||api.vip.miui.com^
@@ -577,6 +581,7 @@
 @@||apollon1954.com^
 @@||apotekica.info^
 @@||app-advertise.zhihuishu.com^
+@@||app-live-sohu.com^
 @@||app-measurement.com^
 @@||app-monitor.ele.me^
 @@||app-preload.iqiyi.com^
@@ -641,6 +646,7 @@
 @@||art4glas.de^
 @@||arteri.my.id^
 @@||as.smvm.cn^
+@@||as.weixin.qq.com^
 @@||asah.my.id^
 @@||ashapurabus.in^
 @@||ashenandgold.blogspot.com^
@@ -808,6 +814,7 @@
 @@||baston.info^
 @@||batarakala.co^
 @@||batoto.org^
+@@||bc.weixin.qq.com^
 @@||bcebos.com^
 @@||bcy.net^
 @@||bd0.d.meituan.net^
@@ -1110,7 +1117,6 @@
 @@||cc.map.qq.com^
 @@||ccine10.com.br^
 @@||ccpro.in^
-@@||cctv.com^
 @@||cdn-apple.com^
 @@||cdn-data6.video.iqiyi.com^
 @@||cdn-go.cn^
@@ -1119,6 +1125,7 @@
 @@||cdn.bootcss.com^
 @@||cdn.branch.io^
 @@||cdn.bytedance.com^
+@@||cdn.cmop.mgtv.com^
 @@||cdn.cnbj1.fds.api.mi-img.com^
 @@||cdn.cnbj1.fds.api.mi-img.com.mgslb.com^
 @@||cdn.exp.xiaomi.com^
@@ -1168,6 +1175,7 @@
 @@||chamfer.ir^
 @@||changyenew.com^
 @@||channel.api.duapp.com^
+@@||channels.weixin.qq.com^
 @@||charityjohnson.blogspot.com^
 @@||charlesschwab.sc.omtrdc.net^
 @@||charliegirl.live^
@@ -1277,6 +1285,7 @@
 @@||coffeetouch.fr^
 @@||cogismith.com^
 @@||coiphimhay247.com^
+@@||collect.bz.mgtv.com^
 @@||collector-axa.cloud.ca.com^
 @@||collector.github.com^
 @@||collegeleaks.biz^
@@ -1321,6 +1330,7 @@
 @@||cr-status.iqiyi.com^
 @@||crackitandroid.blogspot.com^
 @@||crackitosmac.blogspot.com^
+@@||crash.data.v2.mgtv.com^
 @@||crazypornstar.com^
 @@||crazyrace.com.br^
 @@||creativitybites.blogspot.com^
@@ -1547,8 +1557,11 @@
 @@||dns.pub^
 @@||dns.rubyfish.cn^
 @@||dns.twnic.tw^
+@@||dns.weixin.qq.com^
+@@||dns.weixin.qq.com.cn^
 @@||dns11.quad9.net^
 @@||dnscheck.tools^
+@@||dnstest.weixin.qq.com^
 @@||do0od.com^
 @@||docs.idqqimg.com^
 @@||doctruyenchufull.info^
@@ -1940,6 +1953,7 @@
 @@||flufcore.xyz^
 @@||flux.iqiyi.com^
 @@||flying-animals.ru^
+@@||fm.qq.com^
 @@||fmoviesx.net^
 @@||fmovieszfree.org^
 @@||fn88.com^
@@ -2464,6 +2478,8 @@
 @@||hsvn.pro^
 @@||htms.heytapmobi.com^
 @@||htrace.wetvinfo.com^
+@@||httpdns.bz.mgtv.com^
+@@||httpdns.cctv.com^
 @@||https-www-xozilla.com^
 @@||htube.space^
 @@||huawei.com^
@@ -2532,7 +2548,6 @@
 @@||ienac.lv^
 @@||iface.iqiyi.com^
 @@||iface2.iqiyi.com^
-@@||ifeng.com^
 @@||ifind.heytapmobi.com^
 @@||iflow-api.uc.cn^
 @@||ig.apple.com^
@@ -2563,6 +2578,7 @@
 @@||images-eds-ssl.xboxlive.com^
 @@||images.uc.cn^
 @@||imajbet250.com^
+@@||imall.cctv.com^
 @@||imap.qiye.aliyun.com^
 @@||imdh.xyz^
 @@||img-home.csdnimg.cn^
@@ -2603,6 +2619,7 @@
 @@||img4fap.com^
 @@||img9.doubanio.com^
 @@||img9.doubanio.com.cdn.dnsv1.com^
+@@||imgaliyun.res.mgtv.com^
 @@||imgcache.qq.com^
 @@||imgcache.qq.com.sched.legopic1-dk.tdnsv6.com.tpic.cdn.chinaidcnet.com^
 @@||imgs.aixifan.com^
@@ -3261,6 +3278,7 @@
 @@||live-trace.bilibili.com^
 @@||live.com^
 @@||live.kwd.inkuai.com^
+@@||live.qq.com^
 @@||live2all.com^
 @@||live9.co^
 @@||liveats-vod.video.iqiyi.com^
@@ -3294,6 +3312,7 @@
 @@||loc.map.baidu.com^
 @@||loefuck.com^
 @@||log.mmstat.com^
+@@||log.weixin.qq.com^
 @@||login-sh.aki-game.com^
 @@||login.live.com^
 @@||login.microsoftonline.com^
@@ -3517,7 +3536,6 @@
 @@||metrics.vrch.at^
 @@||mfn-sched.jcloud-cdn.com^
 @@||mgbsdk.matrix.netease.com^
-@@||mgtv.com^
 @@||mh00051.blogspot.com^
 @@||mh00052.blogspot.com^
 @@||mh00055.blogspot.com^
@@ -3588,6 +3606,7 @@
 @@||mmshub.net^
 @@||mnewdownload2018.ir^
 @@||mnmnmnlmnm.blogspot.com^
+@@||mobaliyun.res.mgtv.com^
 @@||mobiblog.bio^
 @@||mobiblog.life^
 @@||mobiblog.mom^
@@ -4052,6 +4071,9 @@
 @@||osrecovery.apple.com^
 @@||oss.weread.qq.com^
 @@||otakumovie24.blogspot.com^
+@@||ott.liveapi.mgtv.com^
+@@||ottupdate.api.mgtv.com^
+@@||ottupdate2.api.mgtv.com^
 @@||ouradvice.info^
 @@||outlook.com^
 @@||outlook.live.com^
@@ -4130,6 +4152,8 @@
 @@||pcgamecrackz.blogspot.com^
 @@||pcgamesandro.blogspot.com^
 @@||pcgamesfullcrack.blogspot.com^
+@@||pcvideoaliyun.titan.mgtv.com^
+@@||pcvideoyd.titan.mgtv.com^
 @@||pdc.micloud.xiaomi.net^
 @@||pdfavm.com^
 @@||pdfsitesi.blogspot.com^
@@ -4413,7 +4437,6 @@
 @@||qosp.iqiyi.com^
 @@||qpic.cn^
 @@||qq-web-legacy.cdn-go.cn^
-@@||qq.com^
 @@||qqmail.com^
 @@||qqpublic.qpic.cn^
 @@||qqpublic.tc.qq.com^
@@ -4430,6 +4453,7 @@
 @@||quiz-loesungen.com^
 @@||quotes-liker.blogspot.com^
 @@||qvgaspot.blogspot.com^
+@@||qzone.qq.com^
 @@||r18-ero-mv.com^
 @@||r39th.com^
 @@||r6.mo.baidu.com^
@@ -4459,6 +4483,7 @@
 @@||raw.githubusercontent.com^
 @@||razibet.com^
 @@||rbreezy.net^
+@@||rc-topic-api.bz.mgtv.com^
 @@||rc10-fc07.oray.com^
 @@||rcadvisor.com^
 @@||rcd.iqiyi.com^
@@ -4841,7 +4866,6 @@
 @@||softwaremasalah.blogspot.com^
 @@||softwareyalgomas.blogspot.com^
 @@||sogou.com^
-@@||sohu.com^
 @@||soja.ir^
 @@||sokuja.biz^
 @@||solidance.com^
@@ -5293,6 +5317,7 @@
 @@||ts.market.mi-img.com^
 @@||tsumaran.jp^
 @@||ttdfjt.blogspot.com^
+@@||ttupdate2.api.mgtv.com^
 @@||ttyjukl.blogspot.com^
 @@||tube.e.kuaishou.com^
 @@||tubeqd.tv^
@@ -5471,8 +5496,10 @@
 @@||v--v.top^
 @@||v.douyin.com^
 @@||v.miguvideo.com^
+@@||v.qq.com^
 @@||v.youku.com^
 @@||v00.link^
+@@||v1-play.log.mgtv.com^
 @@||v1-vod.kwaicdn.com^
 @@||v1.kwaicdn.com^
 @@||v10.events.data.microsoft.com^
@@ -5734,6 +5761,7 @@
 @@||www2.bing.com^
 @@||wwwimage-tve.cbsstatic.com^
 @@||wx.qlogo.cn^
+@@||wx.qq.com^
 @@||wximg.wxs.qq.com^
 @@||wzq.gtimg.com^
 @@||x--x.top^
