@@ -1,6 +1,6 @@
 ! AdGuardHome 整合白名单(DNS精简版)
-! 生成时间: 2026-09-25 20:16:21 (UTC+8)
-! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5894 条
+! 生成时间: 2026-09-25 20:25:53 (UTC+8)
+! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5897 条
 !   剔除-带路径@@规则(浏览器URL规则): 765
 !   剔除-浏览器/修饰符: 1835
 !   剔除-URL/路径片段: 197
@@ -3728,6 +3728,7 @@
 @@||multiserviciosramirez.es^
 @@||mundodosdocumentarios.com.br^
 @@||mupvkl.com^
+@@||mus-nettech.youku.com^
 @@||muscle-insider.com^
 @@||muses-ugc.iqiyi.com^
 @@||musescore.org^
@@ -4223,7 +4224,9 @@
 @@||pireaspress.gr^
 @@||pirlotv.blog^
 @@||pirlotvonline.net^
+@@||pis-mob-pcdn.youku.com^
 @@||pis-pcdn.youku.com^
+@@||pis-tel-pcdn.youku.com^
 @@||pisstubeextreme.com^
 @@||pitaya.bytedance.com^
 @@||piteahockey.se^
