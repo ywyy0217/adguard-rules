@@ -1501,7 +1501,6 @@
 @@||dm.pstatp.com^
 @@||dm.toutiao.com^
 @@||dm.toutiao.com.w.cdngslb.com^
-@@||dm.video.qq.com^
 @@||dmhc.online^
 @@||dn-staticdown.qbox.me^
 @@||dnkeeper.hicloud.com^
@@ -2218,8 +2217,6 @@
 @@||gstatic.com^
 @@||gstaticadssl.l.google.com^
 @@||gtdthb.blogspot.com^
-@@||gtimg.cn^
-@@||gtimg.com^
 @@||guangguang.cloudvideocdn.taobao.com^
 @@||guanjia.10010.com^
 @@||gubuksex.site^
@@ -4335,7 +4332,6 @@
 @@||qombiology.ir^
 @@||qpic.cn^
 @@||qq-web-legacy.cdn-go.cn^
-@@||qq.com^
 @@||qqmail.com^
 @@||qqpublic.qpic.cn^
 @@||qqpublic.tc.qq.com^
@@ -5803,3 +5799,11 @@
 @@||pl-ali.youku.com^
 @@||player.youku.com^
 @@||pss-common.youku.com^
+
+@@||vpic.video.qq.com^
+@@||s1.qq.com^
+@@||s2.qq.com^
+@@||s3.qq.com^
+@@||vch.video.qq.com^
+@@||tab.video.qq.com^
+@@||world.qpic.cn^
