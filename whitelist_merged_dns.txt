@@ -1,6 +1,6 @@
 ! AdGuardHome 整合白名单(DNS精简版)
-! 生成时间: 2026-09-25 21:46:45 (UTC+8)
-! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5925 条
+! 生成时间: 2026-09-24 17:37:10 (UTC+8)
+! DNS精简版: 剔除DNS层不生效白名单规则 3138 条, 保留 5791 条
 !   剔除-带路径@@规则(浏览器URL规则): 765
 !   剔除-浏览器/修饰符: 1835
 !   剔除-URL/路径片段: 197
@@ -170,7 +170,6 @@
 @@||a-nosek.blogspot.com^
 @@||a-xnxx.com^
 @@||a.app.qq.com^
-@@||a.ckm.iqiyi.com^
 @@||a.kwimgs.com^
 @@||a.market.xiaomi.com^
 @@||a.myapp.com^
@@ -191,7 +190,6 @@
 @@||abgcrot.life^
 @@||aboutfordycespot.blogspot.com^
 @@||abpganga.com^
-@@||absod.video.iqiyi.com^
 @@||abstrapensa.com.br^
 @@||abtest-ch.snssdk.com^
 @@||abusexxxhd.com^
@@ -200,7 +198,6 @@
 @@||accbychouette.com^
 @@||access-open.quark.cn^
 @@||access.d.yximgs.com^
-@@||access.if.iqiyi.com^
 @@||access.open.uc.cn^
 @@||access.redhat.com2.edgekey.net^
 @@||access1.tpns.sh.tencent.com^
@@ -285,7 +282,6 @@
 @@||adverts.1foo.com^
 @@||ae.bdstatic.com^
 @@||ae01.alicdn.com^
-@@||aedns.weixin.qq.com^
 @@||aegis.qq.com^
 @@||aek-live.gr^
 @@||ael24.net^
@@ -350,6 +346,7 @@
 @@||aliapp.org^
 @@||alibaba.com^
 @@||alibabadns.com^
+@@||alicdn.com^
 @@||alidns.com^
 @@||alipay.com^
 @@||alivefoot.us^
@@ -477,7 +474,6 @@
 @@||any.cdn-go.cn.sched.legopic1-dk.tdnsv6.com.tpic.cdn.chinaidcnet.com^
 @@||anyav.me^
 @@||anycracksoft.blogspot.com^
-@@||anyelianqu.de5.net^
 @@||anysex.top^
 @@||anythingdload.blogspot.com^
 @@||ap6.ssl.msdk.qq.com^
@@ -494,9 +490,7 @@
 @@||api-overmind.youdao.com^
 @@||api-sc.wtzw.com^
 @@||api-shoulei-ssl.xunlei.com^
-@@||api-t.iqiyi.com^
 @@||api-unionid.meituan.com^
-@@||api-yuedu.iqiyi.com^
 @@||api.account.xiaomi.com^
 @@||api.ads.tvb.com^
 @@||api.apple-cloudkit.com^
@@ -504,7 +498,6 @@
 @@||api.browser.miui.com^
 @@||api.cloud.huawei.com^
 @@||api.comm.miui.com^
-@@||api.danmu.tv.sohu.com^
 @@||api.data.meitu.com^
 @@||api.developer.xiaomi.com^
 @@||api.device.xiaomi.net^
@@ -517,13 +510,11 @@
 @@||api.geetest.com^
 @@||api.github.com^
 @@||api.huangye.miui.com^
-@@||api.iapps.ifeng.com^
 @@||api.im.weibo.cn^
 @@||api.io.mi.com^
 @@||api.ip.sb^
 @@||api.ipify.org^
 @@||api.iplay.163.com^
-@@||api.iqiyi.com^
 @@||api.jr.mi.com^
 @@||api.kingdata.ksyun.com^
 @@||api.kmovie.gifshow.com^
@@ -546,7 +537,6 @@
 @@||api.slightcommunicativeinterconnectedness.xyz^
 @@||api.smoot.apple.com^
 @@||api.taptapdada.com^
-@@||api.tv.sohu.com^
 @@||api.tw06.xlmc.sec.miui.com^
 @@||api.union.vip.com^
 @@||api.vip.miui.com^
@@ -564,7 +554,6 @@
 @@||apijsv6.gifshow.com^
 @@||apijsv6.ksapisrv.com^
 @@||apikey.map.qq.com^
-@@||apisgame.iqiyi.com^
 @@||apisnd.heytapmobi.com^
 @@||apissl.gifshow.com^
 @@||apissl.ksapisrv.com^
@@ -581,10 +570,8 @@
 @@||apollon1954.com^
 @@||apotekica.info^
 @@||app-advertise.zhihuishu.com^
-@@||app-live-sohu.com^
 @@||app-measurement.com^
 @@||app-monitor.ele.me^
-@@||app-preload.iqiyi.com^
 @@||app-site-association.cdn-apple.com^
 @@||app-site-association.networking.apple^
 @@||app.adjust.com^
@@ -646,7 +633,6 @@
 @@||art4glas.de^
 @@||arteri.my.id^
 @@||as.smvm.cn^
-@@||as.weixin.qq.com^
 @@||asah.my.id^
 @@||ashapurabus.in^
 @@||ashenandgold.blogspot.com^
@@ -678,11 +664,9 @@
 @@||assur-cyber.fr^
 @@||astrologer.gr^
 @@||asurascans.cloud^
-@@||at.youku.com^
 @@||atascadocherba.com^
 @@||atdhe.ru^
 @@||athallwelakatha.blogspot.com^
-@@||atm.youku.com^
 @@||atm93.blogspot.com^
 @@||atomcurve.com^
 @@||atozmovieslinksnew.blogspot.com^
@@ -764,10 +748,6 @@
 @@||baidu-ide.bj.bcebos.com^
 @@||baidu.cn^
 @@||baidu.com^
-@@||baiducdncmn-gd.inter.iqiyi.com^
-@@||baiducdncmn.inter.iqiyi.com^
-@@||baiducdncmn3.inter.iqiyi.com^
-@@||baiducdnct.inter.iqiyi.com^
 @@||baidupcs.com^
 @@||baidustatic.com^
 @@||baijiahao.baidu.com^
@@ -800,7 +780,6 @@
 @@||banooonline.ir^
 @@||banzaj.pl^
 @@||baozhang.baidu.com^
-@@||bar-i.iqiyi.com^
 @@||baranpatogh.com^
 @@||barbershopkoujo.nl^
 @@||barceloclinic.es^
@@ -814,7 +793,6 @@
 @@||baston.info^
 @@||batarakala.co^
 @@||batoto.org^
-@@||bc.weixin.qq.com^
 @@||bcebos.com^
 @@||bcy.net^
 @@||bd0.d.meituan.net^
@@ -1069,7 +1047,6 @@
 @@||camsrated.com^
 @@||camvat.tv^
 @@||canal13.cl^
-@@||canary.atm.youku.com^
 @@||cangcaya.top^
 @@||canlicasinobahis.info^
 @@||canlimac10.com^
@@ -1096,8 +1073,6 @@
 @@||captive.apple.com^
 @@||captive.g.aaplimg.com^
 @@||caraku.live^
-@@||cards-css.iqiyi.com^
-@@||cards.iqiyi.com^
 @@||carikunci.com^
 @@||carizmatech10.site^
 @@||carnequehabla.blogspot.com^
@@ -1117,15 +1092,14 @@
 @@||cc.map.qq.com^
 @@||ccine10.com.br^
 @@||ccpro.in^
+@@||cctv.com^
 @@||cdn-apple.com^
-@@||cdn-data6.video.iqiyi.com^
 @@||cdn-go.cn^
 @@||cdn.ark.qq.com^
 @@||cdn.bootcdn.net^
 @@||cdn.bootcss.com^
 @@||cdn.branch.io^
 @@||cdn.bytedance.com^
-@@||cdn.cmop.mgtv.com^
 @@||cdn.cnbj1.fds.api.mi-img.com^
 @@||cdn.cnbj1.fds.api.mi-img.com.mgslb.com^
 @@||cdn.exp.xiaomi.com^
@@ -1175,7 +1149,6 @@
 @@||chamfer.ir^
 @@||changyenew.com^
 @@||channel.api.duapp.com^
-@@||channels.weixin.qq.com^
 @@||charityjohnson.blogspot.com^
 @@||charlesschwab.sc.omtrdc.net^
 @@||charliegirl.live^
@@ -1221,7 +1194,6 @@
 @@||cirebonberintan.com^
 @@||citycake.fr^
 @@||cixporntube.com^
-@@||ckm.iqiyi.com^
 @@||claimbit.win^
 @@||clanscs.com.br^
 @@||claudiagalliconcha.se^
@@ -1264,7 +1236,6 @@
 @@||cloudfront.net^
 @@||cloudi.browser.heytapmobi.com^
 @@||cloudkit-api-cn.ocloud.heytapmobi.com^
-@@||cloudpush.iqiyi.com^
 @@||cls-ingest.itunes.apple.com^
 @@||cls-iosclient.itunes.apple.com^
 @@||club-france.ir^
@@ -1273,8 +1244,6 @@
 @@||cm.bilibili.com^
 @@||cm.l.qq.com^
 @@||cmbchina.com^
-@@||cmonitor.iqiyi.com^
-@@||cmts.iqiyi.com^
 @@||cn.app.chat.xiaomi.net^
 @@||cnbj1.fds.api.xiaomi.com^
 @@||cnzz.com^
@@ -1285,7 +1254,6 @@
 @@||coffeetouch.fr^
 @@||cogismith.com^
 @@||coiphimhay247.com^
-@@||collect.bz.mgtv.com^
 @@||collector-axa.cloud.ca.com^
 @@||collector.github.com^
 @@||collegeleaks.biz^
@@ -1311,7 +1279,6 @@
 @@||consumer-img.huawei.com^
 @@||content.ingbank.pl^
 @@||contentcenter-drcn.dbankcdn.com^
-@@||cook.iqiyi.com^
 @@||coomeet.live^
 @@||cooowlme.blogspot.com^
 @@||cos.accelerate.myqcloud.com^
@@ -1327,10 +1294,8 @@
 @@||cpucdn.baidu.com^
 @@||cq9158.com^
 @@||cqc-download.weiyun.com^
-@@||cr-status.iqiyi.com^
 @@||crackitandroid.blogspot.com^
 @@||crackitosmac.blogspot.com^
-@@||crash.data.v2.mgtv.com^
 @@||crazypornstar.com^
 @@||crazyrace.com.br^
 @@||creativitybites.blogspot.com^
@@ -1349,7 +1314,6 @@
 @@||crunchingbaseteam.com^
 @@||cryptoofaucet.site^
 @@||cs-downloadstation.blogspot.com^
-@@||cs-feige.iqiyi.com^
 @@||cs486.wpc.2d930.phicdn.net^
 @@||cs95619.adn.psicdn.net^
 @@||cs95619.wpc.psicdn.net^
@@ -1418,7 +1382,6 @@
 @@||danskcvr.dk^
 @@||darknaija.com^
 @@||darkoficialeducacionbi.blogspot.com^
-@@||dash.cloudflare.com^
 @@||dashen91.xyz^
 @@||dashi.163.com^
 @@||data-sdk-uuid-report.dreport.meituan.net^
@@ -1426,10 +1389,7 @@
 @@||data.game.xiaomi.com^
 @@||data.jsdelivr.com^
 @@||data.sec.miui.com^
-@@||data.video.iqiyi.com^
-@@||data.video.qiyi.com^
 @@||data.xiaoheihe.cn^
-@@||data6.video.iqiyi.com^
 @@||datcalilar.com^
 @@||davenporttheatre.com^
 @@||davestewart.io^
@@ -1557,11 +1517,8 @@
 @@||dns.pub^
 @@||dns.rubyfish.cn^
 @@||dns.twnic.tw^
-@@||dns.weixin.qq.com^
-@@||dns.weixin.qq.com.cn^
 @@||dns11.quad9.net^
 @@||dnscheck.tools^
-@@||dnstest.weixin.qq.com^
 @@||do0od.com^
 @@||docs.idqqimg.com^
 @@||doctruyenchufull.info^
@@ -1638,7 +1595,6 @@
 @@||dreport.meituan.net^
 @@||drhkbali.in^
 @@||drmagyi.blogspot.com^
-@@||drml.video.iqiyi.com^
 @@||droowa.site^
 @@||dropbooks.tv^
 @@||drvsky.com^
@@ -1671,7 +1627,6 @@
 @@||dvse.hu^
 @@||dwexxuty.blogspot.com^
 @@||dwmods123.blogspot.com^
-@@||dx-cards-css.iqiyi.com^
 @@||dxcloud.episerver.net^
 @@||dynamic-dns.net^
 @@||dynv6.com^
@@ -1736,8 +1691,6 @@
 @@||em977.com^
 @@||emailgo.de^
 @@||emas7.com^
-@@||emoticon-sns.iqiyi.com^
-@@||emoticon.sns.iqiyi.com^
 @@||enculadas.net^
 @@||enculiacansin.blogspot.com^
 @@||engine.tuia.cn^
@@ -1893,7 +1846,6 @@
 @@||fiagra.net^
 @@||fifonews.gr^
 @@||fightbook.gr^
-@@||file-yuedu.iqiyi.com^
 @@||file.market.xiaomi.com^
 @@||files.1drv.com^
 @@||fillmyhit.stream^
@@ -1951,9 +1903,7 @@
 @@||flashsaleprice.com^
 @@||floristerialamore.es^
 @@||flufcore.xyz^
-@@||flux.iqiyi.com^
 @@||flying-animals.ru^
-@@||fm.qq.com^
 @@||fmoviesx.net^
 @@||fmovieszfree.org^
 @@||fn88.com^
@@ -2087,7 +2037,6 @@
 @@||gamebaiclub.club^
 @@||gamebaiplus.fun^
 @@||gamebytop.blogspot.com^
-@@||gamecenter.iqiyi.com^
 @@||gamefever.co^
 @@||gamekeygenn.blogspot.com^
 @@||gameloftrepairgames.blogspot.com^
@@ -2133,7 +2082,6 @@
 @@||gc.apple.com^
 @@||gcnewstoday.blogspot.com^
 @@||gd666sg.com^
-@@||gdctyuncdnct.inter.iqiyi.com^
 @@||gdfp.gifshow.com^
 @@||gdfpsec.gifshow.com^
 @@||gdlp01.c-wss.com^
@@ -2232,6 +2180,7 @@
 @@||goliedevushki.club^
 @@||goll.ge^
 @@||google-maps-claudiadtt.blogspot.com^
+@@||google.com^
 @@||googleapis.com^
 @@||googlevideo.com^
 @@||gopup.com^
@@ -2447,7 +2396,6 @@
 @@||hot4k.org^
 @@||hotbf.top^
 @@||hotbokep.top^
-@@||hotchat-im.iqiyi.com^
 @@||hotestcams.com^
 @@||hotgirlsw.xyz^
 @@||hotigo.cloud^
@@ -2478,12 +2426,8 @@
 @@||hsvn.pro^
 @@||htms.heytapmobi.com^
 @@||htrace.wetvinfo.com^
-@@||httpdns.bz.mgtv.com^
-@@||httpdns.cctv.com^
 @@||https-www-xozilla.com^
 @@||htube.space^
-@@||huawei.com^
-@@||huaweicdncmnet.inter.iqiyi.com^
 @@||huddingehockey.com^
 @@||hudong.alicdn.com^
 @@||hugetits.com.es^
@@ -2502,7 +2446,6 @@
 @@||i.mi.com^
 @@||i.niupic.com^
 @@||i.snssdk.com^
-@@||i.vip.iqiyi.com^
 @@||i.w.bilicdn1.com^
 @@||i0.letvimg.com^
 @@||i01.appmifile.com.mgslb.com^
@@ -2546,8 +2489,7 @@
 @@||idv.cdn-apple.com^
 @@||ieensdc.blogspot.com^
 @@||ienac.lv^
-@@||iface.iqiyi.com^
-@@||iface2.iqiyi.com^
+@@||ifeng.com^
 @@||ifind.heytapmobi.com^
 @@||iflow-api.uc.cn^
 @@||ig.apple.com^
@@ -2578,7 +2520,6 @@
 @@||images-eds-ssl.xboxlive.com^
 @@||images.uc.cn^
 @@||imajbet250.com^
-@@||imall.cctv.com^
 @@||imap.qiye.aliyun.com^
 @@||imdh.xyz^
 @@||img-home.csdnimg.cn^
@@ -2619,7 +2560,6 @@
 @@||img4fap.com^
 @@||img9.doubanio.com^
 @@||img9.doubanio.com.cdn.dnsv1.com^
-@@||imgaliyun.res.mgtv.com^
 @@||imgcache.qq.com^
 @@||imgcache.qq.com.sched.legopic1-dk.tdnsv6.com.tpic.cdn.chinaidcnet.com^
 @@||imgs.aixifan.com^
@@ -2712,7 +2652,6 @@
 @@||iosapps.itunes.apple.com.download.ks-cdn.com^
 @@||iosapps.itunes.apple.com.m.alikunlun.net^
 @@||iosapps.itunes.g.aaplimg.com^
-@@||ip-geo.iqiyi.com^
 @@||ip.changeip.com^
 @@||ip.sb^
 @@||ip111.cn^
@@ -2734,13 +2673,11 @@
 @@||ipv4.music.163.com^
 @@||ipv4.taptapdada.com^
 @@||ipv4.taptapdata.com^
-@@||ipv6-static.dns.iqiyi.com^
 @@||ipv6.l.google.com^
 @@||ipv6.msftconnecttest.com^
 @@||ipv6.music.163.com^
 @@||ipv6test.photo.store.qq.com^
-@@||iqid.iqiyi.com^
-@@||iqiyipic.com^
+@@||iqiyi.com^
 @@||iranamlaak.com^
 @@||iranfaraze.ir^
 @@||iraniax.ir^
@@ -3032,7 +2969,6 @@
 @@||komputery.malopolska.pl^
 @@||konkurha.ir^
 @@||konuluporn.xyz^
-@@||kookapp.cn^
 @@||kopeda0b.xyz^
 @@||kopeda0c.xyz^
 @@||kopeda0z.xyz^
@@ -3183,7 +3119,6 @@
 @@||kwaicdn.com^
 @@||l-0003.l-msedge.net^
 @@||l-0007.l-msedge.net^
-@@||l-rcd.iqiyi.com^
 @@||l5.gslb.ksyuncdn.com^
 @@||laar121097.blogspot.com^
 @@||lacokako.com^
@@ -3278,10 +3213,8 @@
 @@||live-trace.bilibili.com^
 @@||live.com^
 @@||live.kwd.inkuai.com^
-@@||live.qq.com^
 @@||live2all.com^
 @@||live9.co^
-@@||liveats-vod.video.iqiyi.com^
 @@||livedcartographies.blogspot.com^
 @@||liveetvshow.blogspot.com^
 @@||livegirlcam.net^
@@ -3312,7 +3245,6 @@
 @@||loc.map.baidu.com^
 @@||loefuck.com^
 @@||log.mmstat.com^
-@@||log.weixin.qq.com^
 @@||login-sh.aki-game.com^
 @@||login.live.com^
 @@||login.microsoftonline.com^
@@ -3472,7 +3404,6 @@
 @@||maxx-hameln.de^
 @@||mb.yidianzixun.com^
 @@||mbd.baidu.com^
-@@||mbdlog.iqiyi.com^
 @@||mboxedge34.tt.omtrdc.net^
 @@||mboxedge35.tt.omtrdc.net^
 @@||mceletimes.xyz^
@@ -3525,8 +3456,6 @@
 @@||met-cronet-reporter.d.meituan.net^
 @@||met-cronet-reporter.dreport.meituan.net^
 @@||met21.fr^
-@@||meta.video.iqiyi.com^
-@@||meta.video.qiyi.com^
 @@||metaso.cn^
 @@||metin2pvp-serverler.org^
 @@||metodepenelitianyonasmuanley.blogspot.com^
@@ -3536,6 +3465,7 @@
 @@||metrics.vrch.at^
 @@||mfn-sched.jcloud-cdn.com^
 @@||mgbsdk.matrix.netease.com^
+@@||mgtv.com^
 @@||mh00051.blogspot.com^
 @@||mh00052.blogspot.com^
 @@||mh00055.blogspot.com^
@@ -3550,6 +3480,7 @@
 @@||mhc-xpana-eu-s2.myhomescreen.tv^
 @@||mhc-xpana-eu.myhomescreen.tv^
 @@||mi-side.nl^
+@@||mi.com^
 @@||micromerchant.xyz^
 @@||microsoft.com^
 @@||microsoftapp.net^
@@ -3606,7 +3537,6 @@
 @@||mmshub.net^
 @@||mnewdownload2018.ir^
 @@||mnmnmnlmnm.blogspot.com^
-@@||mobaliyun.res.mgtv.com^
 @@||mobiblog.bio^
 @@||mobiblog.life^
 @@||mobiblog.mom^
@@ -3723,10 +3653,6 @@
 @@||ms.bdstatic.com^
 @@||ms.vipstatic.com^
 @@||msec.opposhop.cn^
-@@||msg.iqiyi.com^
-@@||msg.video.qiyi.com^
-@@||msg1.video.qiyi.com^
-@@||msg2.video.qiyi.com^
 @@||msn.com^
 @@||msugcmansa.co.in^
 @@||mt2.cn^
@@ -3746,9 +3672,7 @@
 @@||multiserviciosramirez.es^
 @@||mundodosdocumentarios.com.br^
 @@||mupvkl.com^
-@@||mus-nettech.youku.com^
 @@||muscle-insider.com^
-@@||muses-ugc.iqiyi.com^
 @@||musescore.org^
 @@||mushesushi.pl^
 @@||mustafizmovies.blogspot.com^
@@ -3808,7 +3732,6 @@
 @@||nbalives.xyz^
 @@||nbaworth.com^
 @@||ncsi.6-c-0003.c-msedge.net^
-@@||ndct-data.video.iqiyi.com^
 @@||nedayenodoushan.ir^
 @@||neef-driving-experience.ch^
 @@||nekopoci.my.id^
@@ -3839,7 +3762,6 @@
 @@||newsauto.co^
 @@||newsgaziantep.com^
 @@||newstimeer.blogspot.com^
-@@||newstreamcdncmnet.inter.iqiyi.com^
 @@||newvector.map.baidu.com^
 @@||newxnxxstories.blogspot.com^
 @@||newyorkoliveoilcompany.com^
@@ -3868,8 +3790,6 @@
 @@||ninamalmstrom.com^
 @@||nineentertain.tv^
 @@||nisiratechotigolpo.blogspot.com^
-@@||nl.notice.iqiyi.com^
-@@||nl.rcd.iqiyi.com^
 @@||nm.aicdn.com^
 @@||nmobi.kuwo.cn^
 @@||no-drakor.xyz^
@@ -3888,7 +3808,6 @@
 @@||northfacetransitjacket.org^
 @@||note.youdao.com^
 @@||notice.chaoxing.com^
-@@||notice.iqiyi.com^
 @@||noticiasdeldeportemundialxd.ml^
 @@||noticiasgogo.com^
 @@||notmik0l.xyz^
@@ -4038,7 +3957,6 @@
 @@||opciontv.com^
 @@||open-music.ir^
 @@||open.e.189.cn^
-@@||open.uc.cn^
 @@||openapi-slp.heytapmobi.com^
 @@||openapi.baidu.com^
 @@||opencdn.jomodns.com^
@@ -4056,7 +3974,6 @@
 @@||oploverz.tv^
 @@||opornik.info^
 @@||oppaimomitai.com^
-@@||opportunarch.iqiyi.com^
 @@||optimus-ads.amap.com^
 @@||oraclecloud.com^
 @@||oracleport.com^
@@ -4071,9 +3988,6 @@
 @@||osrecovery.apple.com^
 @@||oss.weread.qq.com^
 @@||otakumovie24.blogspot.com^
-@@||ott.liveapi.mgtv.com^
-@@||ottupdate.api.mgtv.com^
-@@||ottupdate2.api.mgtv.com^
 @@||ouradvice.info^
 @@||outlook.com^
 @@||outlook.live.com^
@@ -4115,7 +4029,6 @@
 @@||p9.ecombdimg.com^
 @@||pa-etu.com^
 @@||page.amap.com^
-@@||pages.iqiyi.com^
 @@||pages.tmall.com^
 @@||pages.tmall.com.danuoyi.alicdn.com^
 @@||pages.uc.cn^
@@ -4130,7 +4043,6 @@
 @@||pancake.cdn-apple.com.akadns.net^
 @@||panchira-gazou.com^
 @@||pandamovies.pw^
-@@||paopao.iqiyi.com^
 @@||par30movie1.ir^
 @@||parball.com^
 @@||parsimods.ir^
@@ -4152,8 +4064,6 @@
 @@||pcgamecrackz.blogspot.com^
 @@||pcgamesandro.blogspot.com^
 @@||pcgamesfullcrack.blogspot.com^
-@@||pcvideoaliyun.titan.mgtv.com^
-@@||pcvideoyd.titan.mgtv.com^
 @@||pdc.micloud.xiaomi.net^
 @@||pdfavm.com^
 @@||pdfsitesi.blogspot.com^
@@ -4226,7 +4136,6 @@
 @@||phimsubmoi.com^
 @@||phimtho.net^
 @@||phmovielife.com^
-@@||phnpush.iqiyi.com^
 @@||phokatkagyan.blogspot.com^
 @@||phonerotica.com^
 @@||phonesubmissions.apple.com^
@@ -4247,16 +4156,12 @@
 @@||pireaspress.gr^
 @@||pirlotv.blog^
 @@||pirlotvonline.net^
-@@||pis-mob-pcdn.youku.com^
-@@||pis-pcdn.youku.com^
-@@||pis-tel-pcdn.youku.com^
 @@||pisstubeextreme.com^
 @@||pitaya.bytedance.com^
 @@||piteahockey.se^
 @@||pixel.prime.amazon.dev^
 @@||pixso.cn^
 @@||pizzeriawloczykij.pl^
-@@||pl.youku.com^
 @@||planetdroidbr.com.br^
 @@||play.googleapis.com^
 @@||play.itunes.apple.com^
@@ -4264,11 +4169,9 @@
 @@||playbokep.life^
 @@||playboyshow.com^
 @@||playeateasy.com^
-@@||player-lg.youku.com^
 @@||playgrounds-assets-cdn.apple.com^
 @@||playgrounds-cdn.apple.com^
 @@||playhentai.com^
-@@||playlog.youku.com^
 @@||playno1.club^
 @@||playschristian.blogspot.com^
 @@||playtaku.online^
@@ -4280,7 +4183,6 @@
 @@||pojcky.cz^
 @@||polaris.zijieapi.com^
 @@||polet.si^
-@@||policy.video.iqiyi.com^
 @@||pop.qiye.aliyun.com^
 @@||popcornnowrs.blogspot.com^
 @@||popnewsmagazine.com^
@@ -4348,7 +4250,6 @@
 @@||ppq.apple.com^
 @@||practicallyfunctional.com^
 @@||pragaracing.es^
-@@||pre-cache.video.iqiyi.com^
 @@||prediksikitadot.com^
 @@||prediksipools.com^
 @@||premiumscholorships.info^
@@ -4409,8 +4310,6 @@
 @@||pull-hs-f5.flive.douyincdn.com.c.volcfcdndvs.com^
 @@||pull-hs-spe-f5.douyincdn.com.c.volcfcdndvs.com^
 @@||pull-rtmp-l26-cny.douyincdn.com.c.cdnhwc3.com^
-@@||puma-api.iqiyi.com^
-@@||puma.api.iqiyi.com^
 @@||punch.p2p.qq.com^
 @@||puntodemarketing.com^
 @@||purchase.mp.microsoft.com^
@@ -4434,9 +4333,9 @@
 @@||qn.yingyonghui.com^
 @@||qnmob3.doubanio.com^
 @@||qombiology.ir^
-@@||qosp.iqiyi.com^
 @@||qpic.cn^
 @@||qq-web-legacy.cdn-go.cn^
+@@||qq.com^
 @@||qqmail.com^
 @@||qqpublic.qpic.cn^
 @@||qqpublic.tc.qq.com^
@@ -4453,7 +4352,6 @@
 @@||quiz-loesungen.com^
 @@||quotes-liker.blogspot.com^
 @@||qvgaspot.blogspot.com^
-@@||qzone.qq.com^
 @@||r18-ero-mv.com^
 @@||r39th.com^
 @@||r6.mo.baidu.com^
@@ -4483,10 +4381,8 @@
 @@||raw.githubusercontent.com^
 @@||razibet.com^
 @@||rbreezy.net^
-@@||rc-topic-api.bz.mgtv.com^
 @@||rc10-fc07.oray.com^
 @@||rcadvisor.com^
-@@||rcd.iqiyi.com^
 @@||rcm-images.amazon.com^
 @@||rcmko.org^
 @@||rcnmundo.com^
@@ -4661,7 +4557,6 @@
 @@||scores24.live^
 @@||scorestime.com^
 @@||screamingrape.com^
-@@||scs-x.iqiyi.com^
 @@||sd.360.cn^
 @@||sdarrot.blogspot.com^
 @@||sdbzedu.gov.cn^
@@ -4671,9 +4566,7 @@
 @@||sdkapi.sms.mob.com^
 @@||sdkserver-drcn.op.dbankcloud.cn^
 @@||se-skepseis.gr^
-@@||sealine.youku.com^
 @@||search.google.com^
-@@||search.video.iqiyi.com^
 @@||sec.resource.xiaomi.net^
 @@||secgw-na61-na62.wagbridge.alibaba.tanx.com^
 @@||secogiounviejoylagrabaron.blogspot.com^
@@ -4695,7 +4588,6 @@
 @@||seriesviejasdetvenhd.blogspot.com^
 @@||serindigena.cl^
 @@||serpme.info^
-@@||serv.vip.iqiyi.com^
 @@||serveadkitchen.com^
 @@||serverstatus.apple.com^
 @@||set2app.blogspot.com^
@@ -4849,7 +4741,6 @@
 @@||smotrisports.com^
 @@||smp-device-content.apple.com^
 @@||smzdm-resource.b0.aicdn.com^
-@@||sns-paopao.iqiyi.com^
 @@||snssdk.com^
 @@||so.com^
 @@||soccerjumbotv.me^
@@ -4866,6 +4757,7 @@
 @@||softwaremasalah.blogspot.com^
 @@||softwareyalgomas.blogspot.com^
 @@||sogou.com^
+@@||sohu.com^
 @@||soja.ir^
 @@||sokuja.biz^
 @@||solidance.com^
@@ -4899,7 +4791,6 @@
 @@||sportflash24.it^
 @@||sportin.biz^
 @@||sportlineng.com^
-@@||sports.iqiyi.com^
 @@||sports4u.info^
 @@||sportsonair.gr^
 @@||sportspirit.com.br^
@@ -4947,18 +4838,13 @@
 @@||stat2.openinstall.io^
 @@||stat6.y.qq.com^
 @@||static-cpc.heytapimage.com^
-@@||static-d.iqiyi.com^
 @@||static-res.qq.com^
-@@||static-s.iqiyi.com^
 @@||static-tapad.tapdb.net^
 @@||static.122.gov.cn^
 @@||static.360buyimg.com^
-@@||static.cdn.iqiyi.com^
-@@||static.g.iqiyi.com^
 @@||static.gamecenter.qq.com^
 @@||static.geetest.com^
 @@||static.ips.apple.com^
-@@||static.iqiyi.com^
 @@||static.meishichina.com^
 @@||static.meishichina.com.w.kunlungr.com^
 @@||static.qiyi.com^
@@ -4993,7 +4879,6 @@
 @@||store-images.s-microsoft.com-c.edgekey.net^
 @@||store.assistant.miui.com^
 @@||store.heytapimage.com^
-@@||store.iqiyi.com^
 @@||store.is.autonavi.com^
 @@||storeedgefd.dsx.mp.microsoft.com^
 @@||storeedgefd.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net^
@@ -5019,7 +4904,6 @@
 @@||subnhanh.moe^
 @@||subnhanh.vin^
 @@||subnhanh1.cc^
-@@||subscription.iqiyi.com^
 @@||substrate.office.com^
 @@||suconfig.apple.com^
 @@||sugohaesseo.tistory.com^
@@ -5033,7 +4917,6 @@
 @@||support.microsoft.com^
 @@||susannajungblom.se^
 @@||svirpara.blogspot.com^
-@@||swan-api.iqiyi.com^
 @@||sway.cloud.microsoft^
 @@||swcdn.apple.com^
 @@||swdist.apple.com^
@@ -5229,7 +5112,6 @@
 @@||time-ios.apple.com^
 @@||time-macos.apple.com^
 @@||time.apple.com^
-@@||time.video.iqiyi.com^
 @@||time.windows.com^
 @@||time4tv.me^
 @@||times-of-india-yourmansfieldisd.blogspot.com^
@@ -5240,7 +5122,6 @@
 @@||tizihay.com^
 @@||tj.gov.cn^
 @@||tjyylli.blogspot.com^
-@@||tkcloud.iqiyi.com^
 @@||tlcplantsinc.com^
 @@||tmall.com^
 @@||tmfmazuhttp-wangka.m.qq.com^
@@ -5283,7 +5164,6 @@
 @@||toutporno.net^
 @@||towerfantasy.ru^
 @@||tp-pay.snssdk.com^
-@@||tpa-hcdn.iqiyi.com^
 @@||tpop-api.twitter.com^
 @@||track.uc.cn^
 @@||tracker.ai.xiaomi.com^
@@ -5317,7 +5197,6 @@
 @@||ts.market.mi-img.com^
 @@||tsumaran.jp^
 @@||ttdfjt.blogspot.com^
-@@||ttupdate2.api.mgtv.com^
 @@||ttyjukl.blogspot.com^
 @@||tube.e.kuaishou.com^
 @@||tubeqd.tv^
@@ -5375,7 +5254,6 @@
 @@||uas5.ir^
 @@||uc-novel-api.shuqireader.com^
 @@||uc.cn^
-@@||uestat.video.qiyi.com^
 @@||ufdjrw.blogspot.com^
 @@||ufileos.com^
 @@||ug-data.mihoyo.com^
@@ -5391,7 +5269,6 @@
 @@||umamusumegatya.com^
 @@||umar-danny.my.id^
 @@||umcdn.uc.cn^
-@@||un-acs.youku.com^
 @@||unenagudeseletaja.blogspot.com.ee^
 @@||unesco.cl^
 @@||ungkapankuu.blogspot.com^
@@ -5496,10 +5373,7 @@
 @@||v--v.top^
 @@||v.douyin.com^
 @@||v.miguvideo.com^
-@@||v.qq.com^
-@@||v.youku.com^
 @@||v00.link^
-@@||v1-play.log.mgtv.com^
 @@||v1-vod.kwaicdn.com^
 @@||v1.kwaicdn.com^
 @@||v10.events.data.microsoft.com^
@@ -5542,7 +5416,6 @@
 @@||verify.snssdk.com^
 @@||vermelhinhoba.com.br^
 @@||vertexsmb.com^
-@@||vertical-play.iqiyi.com^
 @@||vfiles.gtimg.cn^
 @@||viagraiix.com^
 @@||viagraotab.com^
@@ -5609,7 +5482,6 @@
 @@||w1-pro.kskwai.com^
 @@||waimai-guide.ele.me^
 @@||wakibmovies.blogspot.com^
-@@||wal.youku.com^
 @@||walkathaas.blogspot.com^
 @@||wankgod.com^
 @@||wapdale.com^
@@ -5761,7 +5633,6 @@
 @@||www2.bing.com^
 @@||wwwimage-tve.cbsstatic.com^
 @@||wx.qlogo.cn^
-@@||wx.qq.com^
 @@||wximg.wxs.qq.com^
 @@||wzq.gtimg.com^
 @@||x--x.top^
@@ -5829,9 +5700,6 @@
 @@||xp-cdn.apple.com^
 @@||xp.apple.com^
 @@||xpety.com^
-@@||xpgw-xcdn.youku.com^
-@@||xpis-mob-xcdn.youku.com^
-@@||xpis-xcdn.youku.com^
 @@||xrfgtjtk.blogspot.com^
 @@||xsportv23.com^
 @@||xtasis.org^
@@ -5891,6 +5759,7 @@
 @@||yomovies.tel^
 @@||yomovies.vin^
 @@||yoogi.ir^
+@@||youku.com^
 @@||youpornbook.com^
 @@||yourbrexit.co.uk^
 @@||yourtube.xxx^
@@ -5906,7 +5775,6 @@
 @@||ysdk.qq.com^
 @@||ysepan.com^
 @@||ysldiscount.org^
-@@||yuedu.iqiyi.com^
 @@||yugi.ir^
 @@||yuh3.com^
 @@||yumurte.info^
@@ -5930,5 +5798,3 @@
 @@||zoomreview.ir^
 @@||zulubet-tips.com^
 @@||zvoleje.cz^
-@@||zyjhcloudcdnct.inter.iqiyi.com^
-@@||httpdns.alicdn.com^
